@@ -1,0 +1,16 @@
+body {
+  
+  background-image: url('asset/freedom.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.text {
+	font-family: 'Amatic SC';
+	padding-top: 4rem;
+  	width: 90%;
+  	margin: 0 auto;
+  	text-align: center;
+	font-size:50px;
+}
